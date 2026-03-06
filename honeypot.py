@@ -1,6 +1,5 @@
 # ============================================
 #   HONEYPOT
-#   Project 6 - Cybersecurity Learning Series
 # ============================================
 
 import socket
