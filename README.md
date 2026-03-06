@@ -25,7 +25,7 @@ A beginner-friendly cybersecurity project that sets up fake servers to detect, t
 ## How to Run
 
 ```bash
-py honeypot.py
+python honeypot.py
 ```
 
 ---
