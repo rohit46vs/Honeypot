@@ -12,6 +12,7 @@ A beginner-friendly cybersecurity project that sets up fake servers to detect, t
 └── README_honeypot.md     # This file
 ```
 
+
 ---
 
 ## Requirements
